@@ -1,5 +1,5 @@
 :root {
-  --text-primary: #ffcba4;
+  --text-primary: black;
   --bg-primary: white;
   --bg-secondary: lightgray;
   --logo-filter: brightness(1);
@@ -183,7 +183,7 @@ a {
 
 .header-text h1 {
   font-size: 4.5em;
-  color: #ff3a3a;
+  color: #ffe5b4;
 }
 
 .icon-chevrons-down {
