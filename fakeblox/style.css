@@ -1,9 +1,7 @@
 .embedElement{
    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -50px;
-    width: 100px;
-    height: 100px;
+    top: 25%;
+    left: 25%;
+    margin-top: -25px;
+    margin-left: -25px;
 }
